@@ -11,7 +11,7 @@ A browser app to generate random campaigns for X-Wing Alliance.
 
 ## Requirements
 
-- Windows
+- Any common web browser
 - X-Wing Alliance game
 
 ## Usage
@@ -19,11 +19,17 @@ A browser app to generate random campaigns for X-Wing Alliance.
 Note: The app creates a new pilot and generates a new campaign structure. Backup your files if needed.
 	
 i) Extract the contents of the .zip to your folder of choice.
+
 ii) Open XWARND.html
+
 iii) Select game type (XWA or Upgrade)
+
 iv) Press "Generate Tour of Duty"
+
 v) Extract the contents of "X-Wing Alliance" folder in the generated .zip file to your X-Wing Alliance or Upgrade folder.
+
 vi) IMPORTANT: Select the correct generated xwarnd pilot from "Pilot Options" in the XWA launcher ('Red1' for XWA standard).
+
 vii) Run the game as usual.
 
 
